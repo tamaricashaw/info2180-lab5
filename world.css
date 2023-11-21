@@ -88,4 +88,10 @@ button {
 
 #result table tr{
     background-color:  #f0f0f0;
+    
+}
+
+#result table td {
+    border: 1px solid #ddd;
+    padding: 12px; 
 }
